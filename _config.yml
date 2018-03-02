@@ -1,10 +1,10 @@
 # Site settings 基础设置
 title: 杨欢 blog       #你的博客标题
-SEOTitle: 杨欢的博客 | BY Blog  #显示在浏览器上搜索时候的标题
+SEOTitle: 杨欢的博客 | YHXT Blog  #显示在浏览器上搜索时候的标题
 header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
 email: yhxt1988@163.com
 description: "积跬步，足千里."   #网站介绍
-keyword: "BY, BY Blog, 杨欢的博客,Python, Django"
+keyword: "YHXT, YHXT Blog, 杨欢的博客,Python, Django"
 url: "http://yhxt.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yhxt/yhxt.github.io.git" # you code repository
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "YSH",
+        href: "http://yshblog.com/blog/"
+    },{
+        title: "百度",
         href: "http://www.baidu.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
