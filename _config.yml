@@ -99,6 +99,9 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "My.GitHub",
+        href: "https://github.com/yhxt"
+    },{
         title: "YSH",
         href: "http://yshblog.com/blog/"
     },{
