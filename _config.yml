@@ -1,7 +1,7 @@
 # Site settings 基础设置
 title: 杨欢 blog       #你的博客标题
 SEOTitle: 杨欢的博客 | YHXT Blog  #显示在浏览器上搜索时候的标题
-header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
+header-img: img/post-bg-coffee.jpg  #显示在首页的背景图片
 email: yhxt1988@163.com
 description: "积跬步，足千里."   #网站介绍
 keyword: "YHXT, YHXT Blog, 杨欢的博客,Python, Django"
