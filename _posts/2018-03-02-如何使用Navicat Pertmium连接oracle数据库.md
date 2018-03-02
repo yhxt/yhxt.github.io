@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      [技巧]如何使用Navicat Pertmium连接oracle数据库
+title:      如何使用Navicat Pertmium连接oracle数据库
 subtitle:    "\"Hello World, Hello Blog\""
 date:       2018-03-02
 author:     YH
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Mysql
-    - 运维
-    - 数据库
+   - Mysql
+   - 运维
+   - 数据库
 ---
 
 
