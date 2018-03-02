@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      如何使用Navicat Pertmium连接oracle数据库
-subtitle:    "\"Hello World, Hello Blog\""
+subtitle:    "oracle数据库的工具连接""
 date:       2018-03-02
 author:     YH
 header-img: img/post-bg-2015.jpg
