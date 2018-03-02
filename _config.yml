@@ -1,24 +1,24 @@
-# Site settings
-title: BY Blog
-SEOTitle: 杨欢的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+# Site settings 基础设置
+title: 杨欢 blog       #你的博客标题
+SEOTitle: 杨欢的博客 | BY Blog  #显示在浏览器上搜索时候的标题
+header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
 email: yhxt1988@163.com
-description: "Every failure is leading towards success."
+description: "积跬步，足千里."   #网站介绍
 keyword: "BY, BY Blog, 杨欢的博客,Python, Django"
 url: "http://yhxt.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yhxt/yhxt.github.io.git" # you code repository
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# Sidebar settings 侧边栏
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "装逼的话还没想好。。。"
+sidebar-avatar: /img/yh.jpg      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
 
 
 
-# SNS settings
+# SNS settings 社交账号设置
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     yhxt
 zhihu_username:     yhxt
 github_username:    yhxt
 #facebook_username:  yhxt
@@ -31,7 +31,7 @@ github_username:    yhxt
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 10  #每页显示10条博客文章
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -55,15 +55,15 @@ kramdown:
 
 
 
-# 评论系统
+# 评论系统 Disqus在国内加载太慢，改用Gitalk
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: yhxt
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4-yyyy   #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d-yyy  #同上
+  clientID: 8c35b65d1d39c728e16c   #生成的clientID
+  clientSecret: 0b9ec7fbb72db8759a7dff2c266fc275f4b2b503  #同上
   repo: yhxt.github.io    #仓库名称
   owner: yhxt    #github用户名
   admin: yhxt
@@ -72,8 +72,8 @@ gitalk:
 
 # 统计
 
-# Analytics settings
-# Baidu Analytics
+# Analytics settings 网站统计
+# Baidu Analytics 百度统计
 ba_track_id: 07c71e58f4209c547cbf2d65fbe0c3cd
 
 # Google Analytics
