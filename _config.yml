@@ -18,11 +18,11 @@ sidebar-avatar: /img/yh.jpg      # 你的个人头像 这里你可以改成我�
 
 # SNS settings 社交账号设置
 RSS: false
-weibo_username:     yhxt
+#weibo_username:     yhxt
 zhihu_username:     yhxt
 github_username:    yhxt
 #facebook_username:  yhxt
-#jianshu_username:   yhxt
+jianshu_username:   2d96b23f41f7
 #twitter_username:   qiubaiying
 
 
